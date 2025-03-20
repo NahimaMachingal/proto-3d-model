@@ -1,0 +1,6 @@
+{
+  "/": "pages/index.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/nextjs-model-info": "pages/api/nextjs-model-info.js"
+}
